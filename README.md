@@ -1,6 +1,7 @@
 # DSI_Projects
 
-These are weekly assignments from my Data Science Immersive course at General Assembly
+These are weekly assignments from my Data Science Immersive course at General Assembly. These seven projects were followed by a capstone project, which is located in a different repository (https://github.com/cgeppig/DSI_Capstone).
+I have intentionally left these in their original form in order to show my progress.
 
 Project 1: Analyzing trends in SAT scores across USA States.
 Skills learned: Python programming, manipulating data using Python.
